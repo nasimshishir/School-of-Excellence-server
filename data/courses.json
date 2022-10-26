@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6335283b6158db534f017c7c",
+    "image": "./images/1.png",
+    "title": "Push-ups",
+    "duration": 24,
+    "rating": 4.5,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+  },
+  {
+    "id": "6335283bea7dacba4c8e8b0a",
+    "image": "https://media-private.canva.com/3rXok/MAFNl83rXok/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20220929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220929T072029Z&X-Amz-Expires=18070&X-Amz-Signature=240263c3afcc38ba6ea1d96ed1af6235ca3d6c0117918ce71f270add525d87c0&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2029%20Sep%202022%2012%3A21%3A39%20GMT",
+    "title": "Push-ups",
+    "duration": 21,
+    "rating": 4.5,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+  },
+  {
+    "id": "6335283b0fc96c2969463a4e",
+    "image": "https://media-private.canva.com/aGNIA/MAFNl8aGNIA/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20220929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220929T072400Z&X-Amz-Expires=16557&X-Amz-Signature=8e4f95f836ec81cb2f69af67a2489dc8d4c13a3acfca73cd7d27e01857601ff9&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2029%20Sep%202022%2011%3A59%3A57%20GMT",
+    "title": "Crunches",
+    "duration": 37,
+    "rating": 4.5,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+  },
+  {
+    "id": "6335283b026b9fb4bcdda812",
+    "image": "https://media-private.canva.com/NERcU/MAFNl2NERcU/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20220929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220929T030846Z&X-Amz-Expires=32904&X-Amz-Signature=9f5e3f41c871ac3ceafc1913682f1e36f27d495f1c81e7c68bf33ce99431b5f8&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2029%20Sep%202022%2012%3A17%3A10%20GMT",
+    "title": "Planks",
+    "duration": 30,
+    "rating": 4.5,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+  },
+  {
+    "id": "6335283bd0e7b26561bafdf2",
+    "image": "https://media-private.canva.com/UwB-c/MAFNlwUwB-c/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20221003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221003T173013Z&X-Amz-Expires=16167&X-Amz-Signature=92f559e14f98799834dd5df52c257672c4fe3bc0631fa7c0a51491b0af75254b&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2003%20Oct%202022%2021%3A59%3A40%20GMT",
+    "title": "Weight Lifting",
+    "duration": 38,
+    "rating": 4.5,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+  },
+  {
+    "id": "6335283bffa79c3193f5e18e",
+    "image": "https://media-private.canva.com/j4SFI/MAFNl5j4SFI/1/tl.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20220928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-",
+    "title": "Squats",
+    "duration": 26,
+    "rating": 4.5,
+    "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+  }
+]
