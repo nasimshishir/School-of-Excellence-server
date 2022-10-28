@@ -31,7 +31,7 @@
     "classes": 42,
     "rating": 4.0,
     "details": "BSc (Hons) Sport and Exercise Science is the scientific study of human responses and adaptations to physical activity, exercise and sport. It includes the study of physiology (including nutrition), biomechanics and psychology. And then strength and conditioning can be considered a ‘fourth pillar’, in that it combines the three other subject disciplines and considers how we apply our knowledge to improve the strength and conditioning of people ranging from clinical patient groups to elite athletes.",
-    "price": 1700$,
+    "price": "1700$",
     "instructor": "Tywin Lanister",
     "overview": "BSc (Hons) Sport and Exercise Science is the scientific study of human responses and adaptations to physical activity, exercise and sport. It includes the study of physiology (including nutrition), biomechanics and psychology."
   },
@@ -43,7 +43,7 @@
     "classes": 48,
     "rating": 4.6,
     "details": "Psychology at our University offers a wide range of teaching techniques incorporating a blended online/face-to-face approach.  Lectures include world leading experts from different fields of psychology who provide insights into their most recent research and the impact that this cutting edge research has on the current understanding of psychological functioning.  Asynchronous online activities enable students to engage with their studies more flexibly.",
-    "price": 1900$,
+    "price": "1900$",
     "instructor": "Ross Geller",
     "overview": "Psychology at our University explores and examines the interaction between mind and behavior, the nature of the unconscious, the functioning of memory, individual behaviour in social situations, prejudice and altruism. This equips students with a thorough grounding in each of the major fields: social psychology; developmental psychology; biological psychology; and cognitive psychology."
   },
@@ -55,7 +55,7 @@
     "classes": 52,
     "rating": 4.2,
     "details": "Our Web and Mobile Development pathway combines a solid grounding in software design and computer science with the expertise required for a successful career in the field of web and mobile development. Throughout the degree, you will have many opportunities to grow your professional portfolio allowing you to stand out from the crowd and forge a rewarding career in the industry. Your course begins with a solid foundation in web design, programming and software engineering; gaining skills in HTML, CSS, JavaScript as well as problem-solving, logical thinking and design theory. In your second year of study, you build on your ability to develop applications for web and mobile, honing your abilities in front-end and server-side web development, native mobile development and research. The final year allows you to undertake a major web or mobile project alongside specialist modules including distributed systems, big data and cyber security. With the market for well-trained graduates entering the mobile and web sectors set to increase by over 50% between now and 2024, this degree has been designed for you to fulfil this increasing demand.",
-    "price": 2200$,
+    "price": "2200$",
     "instructor": "Every organization understands the importance of having an effective online and mobile presence. The web and mobile development pathway on our BSc (Hons) Computing degree ensures you graduate with the skills and expertise needed to meet the demands of this exciting and influential industry."
   },
   {
@@ -66,7 +66,7 @@
     "classes": 55,
     "rating": 4.3,
     "details": "In the first year of the degree, you will gain a solid foundation in data science, artificial intelligence, programming, networks and computer systems. In the second year, you will have the opportunity to create a substantial software product that incorporates software design, implementation and testing. You will also undertake the degrees core research skills module in preparation for your final year project and dissertation. During the final year of your degree, you will complete your final project and dissertation. For this, you will be assigned a supervisor who is familiar with your chosen topic. You will also study advanced modules in data science, artificial intelligence, cyber security and distributed systems preparing you for a career as a data scientist.",
-    "price": 1800$,
+    "price": "1800$",
     "instructor": "Mofiz Uddin",
     "overview": "Our BSc (Hons) Data Science and Artificial Intelligence degree has been designed to provide you with everything you need to be able to find meaning in this data as a successful data scientist."
   }
